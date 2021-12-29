@@ -12,7 +12,6 @@
 ![슬라이드10](https://user-images.githubusercontent.com/49331497/147621610-575f7089-99d8-48d7-ab1b-83b3b77b54fe.jpeg)
 ![슬라이드11](https://user-images.githubusercontent.com/49331497/147621611-6e16c348-ba01-487b-88b6-d7425c858f35.jpeg)
 ![슬라이드12](https://user-images.githubusercontent.com/49331497/147621612-b4bd70e3-ef6b-423a-8a0f-d6b677fee748.jpeg)
-![슬라이드13](https://user-images.githubusercontent.com/49331497/147621615-72d2e8c2-4350-45b5-bc64-238a968f4ff0.jpeg)
 ![슬라이드14](https://user-images.githubusercontent.com/49331497/147621616-c8986b3e-75e0-45ac-b3d3-c943edaa3dc7.jpeg)
 
 
