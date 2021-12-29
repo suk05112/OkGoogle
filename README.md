@@ -1,6 +1,6 @@
 # OkGoogle
 ![슬라이드1](/pptImage/슬라이드1.jpeg)
-![슬라이드2](./pptImage/슬라이드2.jpeg)
+![슬라이드2](pptImage/슬라이드2.jpeg)
 ![슬라이드3](./pptImage/슬라이드3.jpeg)
 ![슬라이드4](./pptImage/슬라이드4.jpeg)
 ![슬라이드5](./pptImage/슬라이드5.jpeg)
